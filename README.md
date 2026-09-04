@@ -13,6 +13,8 @@ la integración de un shader de Metal como fondo decorativo.
 > ilustraciones son placeholders generados; ver
 > [Cosas pendientes o limitadas](#cosas-pendientes-o-limitadas-a-propósito).
 
+<img width="1311" height="677" alt="MyMusic" src="https://github.com/user-attachments/assets/6bdc5994-1201-4827-bb7b-38f37559ab68" />
+
 ---
 
 ## Tecnologías usadas
